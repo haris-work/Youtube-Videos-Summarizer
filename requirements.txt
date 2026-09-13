@@ -1,0 +1,8 @@
+youtube-transcript-api==1.2.1
+faiss-cpu==1.8.0
+langchain==0.2.6
+langchain-community==0.2.6
+ibm-watsonx-ai==1.0.10
+langchain-ibm==0.1.8
+gradio==4.44.1
+huggingface-hub==0.16.4
